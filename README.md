@@ -5,6 +5,7 @@ https://www.mathworks.com/help/audio/ref/noisegate.html
 ## Usage
 ```c++
 #include <gate.hpp>
+
 vector<double> x = getTestTone();
 vector<double> y = vector<double>();
 
